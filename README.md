@@ -127,7 +127,7 @@ jupyter notebook
 ##  Project Structure
 
 ```
-insurance-cost-prediction/
+Medical-insurance-cost-prediction/
 │
 ├── data/
 │   └── insurance.csv
